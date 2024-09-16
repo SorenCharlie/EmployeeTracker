@@ -4,24 +4,11 @@
 ## Description
 This app allows you to view and manager departments, roles, and employees in a copy to help organize and plan a business
 
+https://drive.google.com/file/d/1b_RAYIiCi-eUWrF-6-lega-ulop-btZx/view
+
 ## Table of Contents
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contribution](#contribution)
-- [Test Instructions](#test-instructions)
 - [License](#license)
 - [Questions](#questions)
-
-## Instalation
-
-
-## Usage
-
-
-## Contribution
-
-
-## Test Instructions
 
 
 ## License
@@ -32,3 +19,4 @@ This application is covered under the MIT License.
 ## Questions
 SorenCharlie https://github.com/SorenCharlie  
 For any questions, please email sorenr2209@gmail.com.
+
